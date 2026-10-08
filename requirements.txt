@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+qdrant-client
+sentence-transformers
+pydantic
+pydantic-settings
+python-multipart
+streamlit
+pypdf
+python-docx
+python-dotenv
+requests
+pytest
+numpy
+openai
